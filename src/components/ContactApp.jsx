@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import ContactList from './ContactList';
 import { getData } from '../utils/data';
 import ContactInput from './ContactInput';
